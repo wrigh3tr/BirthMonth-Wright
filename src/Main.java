@@ -16,7 +16,7 @@ public class Main
                 System.out.println("You said your Birth Month " + birthMonth);
             }
             else
-                System.out.println("Enter a Valid input " + birthMonth + "is not a valid month");
+                System.out.println("Enter a Valid input, " + birthMonth + " is not a valid month");
 
         }
         else
